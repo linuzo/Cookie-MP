@@ -219,6 +219,7 @@ interface BlockIds{
 	const GRASS_PATH = 198;
 	const ITEM_FRAME_BLOCK = 199;
 
+	const OBSERVER = 218;
 	const PODZOL = 243;
 	const BEETROOT_BLOCK = 244;
 	const STONECUTTER = 245;
@@ -227,7 +228,6 @@ interface BlockIds{
 	const UPDATE_BLOCK = 248;
 	const ATEUPD_BLOCK = 249;
 	const BLOCK_MOVED_BY_PISTON = 250;
-	const OBSERVER = 251;
-	const CONCRETE = 252;
+	const CONCRETE = 251;
 	const INFO_RESERVED6 = 255;
 }
