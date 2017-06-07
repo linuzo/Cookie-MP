@@ -27,4 +27,4 @@ Liste de choses à faire :
 - [x] Enclumes/Enchantements
 - [x] Génération
 
-Nous ne sommes pas des codeurs professionel. Merci de nous soutenir ! If you have any problems, Make a new issue (In French/English)
+Nous ne sommes pas des codeurs professionel. Merci de nous soutenir ! If you have any problems, Make a new issue (In French/English). Please make an English translation of this text.
