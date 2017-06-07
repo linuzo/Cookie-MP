@@ -107,6 +107,7 @@ class Block extends Position implements BlockIds, Metadatable{
 			self::$list[self::TALL_GRASS] = TallGrass::class;
 			self::$list[self::DEAD_BUSH] = DeadBush::class;
 			self::$list[self::WOOL] = Wool::class;
+			self::$list[self::CONCRETE] = Concrete::class;
 			self::$list[self::DANDELION] = Dandelion::class;
 			self::$list[self::RED_FLOWER] = Flower::class;
 			self::$list[self::BROWN_MUSHROOM] = BrownMushroom::class;
