@@ -123,6 +123,9 @@ class Server{
 
 	/** @var BanList */
 	private $banByIP = null;
+	
+	/** @var BanList */
+	private $banByCID = \null;
 
 	/** @var Config */
 	private $operators = null;
@@ -1248,6 +1251,10 @@ class Server{
 		return $this->banByIP;
 	}
 
+	public function getCIDBans(){
+		return $this->banByCID;
+	}
+	
 	/**
 	 * @param string $name
 	 */
@@ -1922,6 +1929,7 @@ class Server{
 
 		$this->banByIP->load();
 		$this->banByName->load();
+		$this->banByCID->load();
 		$this->reloadWhitelist();
 		$this->operators->reload();
 
