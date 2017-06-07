@@ -229,5 +229,6 @@ interface BlockIds{
 	const ATEUPD_BLOCK = 249;
 	const BLOCK_MOVED_BY_PISTON = 250;
 	const CONCRETE = 236;
+	const CONCRETE_POWDER = 237;
 	const INFO_RESERVED6 = 255;
 }
