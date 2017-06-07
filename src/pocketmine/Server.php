@@ -1864,7 +1864,7 @@ class Server{
 		$this->pluginManager->enablePlugin($plugin);
 	}
 
-	public disablePlugins(){
+	public function disablePlugins(){
 		$this->pluginManager->disablePlugins();
 	}
 
