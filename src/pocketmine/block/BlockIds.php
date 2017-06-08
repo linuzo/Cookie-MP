@@ -142,8 +142,8 @@ interface BlockIds{
 	const ENCHANTING_TABLE = 116, ENCHANT_TABLE = 116, ENCHANTMENT_TABLE = 116;
 	const BREWING_STAND_BLOCK = 117;
 	const CAULDRON_BLOCK = 118;
-
-	const END_PORTAL_FRAME = 120, END_PORTAL = 120;
+	const END_PORTAL = 119;
+	const END_PORTAL_FRAME = 120;
 	const END_STONE = 121;
 	const ENDER_CHEST = 130;
 
@@ -219,7 +219,9 @@ interface BlockIds{
 	const DARK_OAK_DOOR_BLOCK = 197;
 	const END_ROD = 198;
 	const ITEM_FRAME_BLOCK = 199;
-    const GRASS_PATH = 208;
+    
+	const END_BRICKS = 206;
+	const GRASS_PATH = 208;
 	
 	const PURPLE_GLAZED_TERRACOTTA = 219;
 	const WHITE_GLAZED_TERRACOTTA = 220;
