@@ -28,10 +28,8 @@ TODO list :
 - [x] Enchantments
 - [x] Anvil
 
-Thank you for supporting us ! If you have any problems, Make a new issue (In French/English).
-In collaboration with [Hydracon](https://www.github.com/E-DevPM/Hydracon/)
+Thank you for supporting us ! If you have any problems, Make a new issue (In French/English). In collaboration with [Hydracon](https://www.github.com/E-DevPM/Hydracon/)
 
-==================
 # Français
 
 Introduction
