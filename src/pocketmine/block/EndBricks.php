@@ -20,20 +20,20 @@ namespace pocketmine\block;
 use pocketmine\item\Item;
 use pocketmine\item\Tool;
 
-class Bedrock extends Solid{
+class EndBricks extends Solid{
 
-	protected $id = self::BEDROCK;
+	protected $id = self::END_BRICKS;
 
 	public function __construct($meta = 0){
 		$this->meta = $meta;
 	}
 
 	public function getName(){
-		return "Bedrock";
+		return "End Stone Bricks";
 	}
 
 	public function getHardness(){
-		return 0,8;
+		return 0.8;
 	}
 
 	public function getResistance(){

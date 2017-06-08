@@ -41,8 +41,5 @@ class EndPortalBlock extends Transparent{
 	
 	public function getLightLevel(){
 		return 15;
-
-	public function getDrops(Item $item){
-		return [];
 	}
 }
