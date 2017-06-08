@@ -1,5 +1,6 @@
 Cookie-MP
 ===================
+**Contact us on [TWITTER](http://www.twitter.com/Cookie_Software) for support.**
 
 # Français
 
