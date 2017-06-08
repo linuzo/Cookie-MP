@@ -1437,6 +1437,15 @@ class Server{
 				"auto-save" => true,
 				"view-distance" => 8
 			]);
+			$this->logger->info("
+			
+   _____   ______   ______   _  _   _   ______      __  __ ____
+  |  _ _| |  __  | |  __  | | |/ / |_| |  ____|    |  \/  |  _ \
+  | |     | |  | | | |  | | |   /   _  | |___  ___ | |\/| | |_) |
+  | |     | |  | | | |  | | |  (   | | |  ___||___|| |  | |  __/
+  | |_ _  | |__| | | |__| | |   \  | | | |____     | |  | | |
+  |_____| |______| |______| |_|\_\ |_| |______|    |_|  |_|_|    
+                                                                   ");
 			
 			$this->forceLanguage = $this->getProperty("settings.force-language", false);
 			$this->baseLang = new BaseLang($this->getProperty("settings.language", BaseLang::FALLBACK_LANGUAGE));
