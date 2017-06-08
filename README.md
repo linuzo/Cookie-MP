@@ -1,7 +1,36 @@
 Cookie-MP
-===================
+==================
 **Contact us on [TWITTER](http://www.twitter.com/Cookie_Software) for support.**
 
+# English
+
+Introduction
+-------------
+__Cookie-MP is an server software for *Minecraft: Pocket Edition* and *Minecraft: Windows 10 Edition*.__  
+
+Some features offered by Cookie-MP:
+* Xbox Live auth'
+* Minecraft: Windows 10 Edition support
+* Ressource packs
+* Sounds in game
+* Old Protocols support
+* New Blocks
+
+Supported versions :
+-------------
+`master`:
+- [x] MCPE v1.1.x Alpha
+
+TODO list :
+-------------
+
+- [x] Beacon
+- [x] Enchantments
+- [x] Anvil
+
+Thank you for supporting us ! If you have any problems, Make a new issue (In French/English).
+
+==================
 # Français
 
 Introduction
@@ -29,4 +58,4 @@ Liste de choses à faire :
 - [x] Enclumes/Enchantements
 - [x] Génération
 
-Merci de nous soutenir ! If you have any problems, Make a new issue (In French/English). Please make an English translation of this text.
+Merci de nous soutenir ! Si vous avez des problèmes, Crééz une "Issue" (En Français ou en Anglais).
