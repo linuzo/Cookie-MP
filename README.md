@@ -14,6 +14,7 @@ Certaines fonctionnalités qu'offre Cookie-MP:
 * Prise en charge de Minecraft: Windows 10 Edition
 * Pack de ressources customisable
 * Les sons du jeu
+* Old Protocols support
 * Les nouveaux Blocs
 
 Versions supportées :
@@ -28,4 +29,4 @@ Liste de choses à faire :
 - [x] Enclumes/Enchantements
 - [x] Génération
 
-Nous ne sommes pas des codeurs professionel. Merci de nous soutenir ! If you have any problems, Make a new issue (In French/English). Please make an English translation of this text.
+Merci de nous soutenir ! If you have any problems, Make a new issue (In French/English). Please make an English translation of this text.
