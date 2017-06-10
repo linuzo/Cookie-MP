@@ -221,6 +221,7 @@ interface BlockIds{
 	const END_ROD = 198;
 	const ITEM_FRAME_BLOCK = 199;
     
+	const CHORUS_FLOWER = 200;
 	const END_BRICKS = 206;
 	const GRASS_PATH = 208;
 	

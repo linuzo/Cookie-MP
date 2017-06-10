@@ -98,6 +98,7 @@ class Block extends Position implements BlockIds, Metadatable{
 			self::$list[self::LAPIS_BLOCK] = Lapis::class;
 			self::$list[self::ACTIVATOR_RAIL] = ActivatorRail::class;
 			self::$list[self::COCOA_BLOCK] = CocoaBlock::class;
+			self::$list[self::CHORUS_FLOWER] = ChorusFlower::class;
 			self::$list[self::SANDSTONE] = Sandstone::class;
 			self::$list[self::NOTE_BLOCK] = NoteBlock::class;
 			self::$list[self::BED_BLOCK] = Bed::class;
