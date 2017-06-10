@@ -242,6 +242,8 @@ interface BlockIds{
 	const RED_GLAZED_TERRACOTTA = 234;
 	const BLACK_GLAZED_TERRACOTTA = 235;
 	
+	const CHORUS_PLANT = 240
+	
 	const SHULKER_BOX = 218;
 	const OBSERVER = 252;
 	const PODZOL = 243;
