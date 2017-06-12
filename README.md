@@ -2,6 +2,7 @@ Cookie-MP
 ==================
 **Contact us on [TWITTER](http://www.twitter.com/Cookie_Software) for support.**
 
+![Cookie-MP](https://lh6.googleusercontent.com/gqzZ9lP7Fs6-vyKVtzig2QQBZMwD761ZprDGOe9dBNAzMtjwZaAli7BDpbemZR29MPAAKKzXQAciAuU=w1366-h200)
 # English
 
 Introduction
