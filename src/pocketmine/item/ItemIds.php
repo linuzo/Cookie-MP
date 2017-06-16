@@ -200,9 +200,8 @@ interface ItemIds extends BlockIds{
 	const JUNGLE_DOOR = 429;
 	const ACACIA_DOOR = 430;
 	const DARK_OAK_DOOR = 431;
-
-	const SPLASH_POTION = 438;
-
+    const CHORUS_FRUIT = 432;
+    
 	const BEETROOT = 457;
 	const BEETROOT_SEEDS = 458, BEETROOT_SEED = 458;
 	const BEETROOT_SOUP = 459;
