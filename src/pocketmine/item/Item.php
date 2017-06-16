@@ -233,7 +233,8 @@ class Item implements ItemIds, \JsonSerializable{
 			self::$list[self::NETHER_STAR] = NetherStar::class;
 			self::$list[self::ENCHANTED_GOLDEN_APPLE] = GoldenAppleEnchanted::class;
 			self::$list[self::ENDER_PEARL] = EnderPearl::class;
-
+            self::$list[self::CHORUS_FRUIT] = ChorusFruit::class;
+            
 			for($i = 0; $i < 256; ++$i){
 				if(Block::$list[$i] !== null){
 					self::$list[$i] = Block::$list[$i];
